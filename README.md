@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="" width="60" height="60"><br>Cisco Packet Tracer
+      <img src="https://raw.githubusercontent.com/Jseb0/jseb0/refs/heads/main/icons8-cisco-packet-tracer-150.png" width="60" height="60"><br>Cisco Packet Tracer
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mamp" width="60" height="60"><br>MAMP
