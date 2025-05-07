@@ -16,11 +16,20 @@
 
 ### 🔥 **Technologies I Use**
 
-| ![Java](https://skillicons.dev/icons?i=java) | ![Python](https://skillicons.dev/icons?i=python) | ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![C](https://skillicons.dev/icons?i=c) |
-| :---: | :---: | :---: | :---: |
-| **Java** | **Python** | **JavaScript** | **C** |
-| ![C++](https://skillicons.dev/icons?i=cplusplus) | ![SQL](https://skillicons.dev/icons?i=mysql) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Git](https://skillicons.dev/icons?i=git) |
-| **C++** | **SQL** | **VS Code** | **Git** |
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="60" height="60"><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60" height="60"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="60" height="60"><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="60" height="60"><br>C</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cplusplus" width="60" height="60"><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="60" height="60"><br>SQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60" height="60"><br>VS Code</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60" height="60"><br>Git</td>
+  </tr>
+</table>
 
 ---
 
