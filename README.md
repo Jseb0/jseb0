@@ -77,7 +77,7 @@
       <img src="https://www.mamp.info/images/icons/mamp-viewer.png" width="60" height="60"><br>MAMP
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/nolan/256/jetbrains--v1.png" width="60" height="60"><br>JetBrains
+      <img src="https://skillicons.dev/icons?i=clion" width="60" height="60"><br>CLion
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bash" width="60" height="60"><br>Bash
@@ -86,7 +86,10 @@
       <img src="https://skillicons.dev/icons?i=react" width="60" height="60"><br>React
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=react" width="60" height="60"><br>React
+      <img src="https://skillicons.dev/icons?i=idea" width="60" height="60"><br>IntelliJ Idea
+    </td>
+        <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="60" height="60"><br>PyCharm
     </td>
   </tr>
 </table>
