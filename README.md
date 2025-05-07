@@ -7,13 +7,6 @@
 
 ---
 
-### 📫 **Let's Connect**  
-- Reach me at [LinkedIn](https://www.linkedin.com/in/j-seb0/)
-- Email me at: [Email](mailto:justin.s.sebastian2004@gmail.com)
-- My portfolio: [Portfolio](https://jseb0.github.io/Portfolio/)
-
----
-
 ### 🔥 **Softwares and Languages I Use**
 
 <table align="center">
@@ -117,4 +110,5 @@ Feel free to browse through my repositories or reach out for collaborations! I'm
 ### 📫 **Contact Me**
 - Reach me at: [LinkedIn](https://www.linkedin.com/in/j-seb0/)
 - Email me at: [Email](mailto:justin.s.sebastian2004@gmail.com)
+- My portfolio: [Portfolio](https://jseb0.github.io/Portfolio/)
 
