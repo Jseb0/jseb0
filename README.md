@@ -1,4 +1,4 @@
-# 🌟 **Turning Ideas Into Code** 🌟
+# 🌟 **Turning Ideas Into Codes** 🌟
 
 ## 👨‍💻 **Hi! I'm Justin Sebastian**
 ### 🛠 **A passionate software developer looking for software engineering placements!**
@@ -8,13 +8,13 @@
 ---
 
 ### 📫 **Let's Connect**  
-- Reach me at [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email me at: [your.email@gmail.com](mailto:your.email@gmail.com)
-- My portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)
+- Reach me at [LinkedIn](https://www.linkedin.com/in/j-seb0/)
+- Email me at: [your.email@gmail.com](mailto:justin.s.sebastian2004@gmail.com)
+- My portfolio: [www.yourportfolio.com](https://jseb0.github.io/Portfolio/)
 
 ---
 
-### 🔥 **Technologies I Use**
+### 🔥 **Softwares and Languages I Use**
 
 <table align="center">
   <tr>
@@ -54,7 +54,7 @@
       <img src="https://skillicons.dev/icons?i=sqlite" width="60" height="60"><br>SQLite
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=php" width="60" height="60"><br>myPHPAdmin
+      <img src="https://skillicons.dev/icons?i=php" width="60" height="60"><br>phpMyAdmin
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" width="60" height="60"><br>GitHub
@@ -91,6 +91,9 @@
         <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=pycharm" width="60" height="60"><br>PyCharm
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="60" height="60"><br>Raspberry Pi
+    </td>
   </tr>
 </table>
 
@@ -112,6 +115,6 @@ Feel free to browse through my repositories or reach out for collaborations! I'm
 ---
 
 ### 📫 **Contact Me**
-- Reach me at: [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email me at: [your.email@gmail.com](mailto:your.email@gmail.com)
+- Reach me at: [LinkedIn](https://www.linkedin.com/in/j-seb0/)
+- Email me at: [your.email@gmail.com](mailto:justin.s.sebastian2004@gmail.com)
 
