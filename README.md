@@ -82,6 +82,12 @@
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bash" width="60" height="60"><br>Bash
     </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="60" height="60"><br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="60" height="60"><br>React
+    </td>
   </tr>
 </table>
 
