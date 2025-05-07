@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/ios/150/cisco-packet-tracer.png" width="60" height="60"><br>Cisco Packet Tracer
+      <img src="https://img.icons8.com/ios-filled/150/cisco-packet-tracer.png" width="60" height="60"><br>Cisco Packet Tracer
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mamp" width="60" height="60"><br>MAMP
