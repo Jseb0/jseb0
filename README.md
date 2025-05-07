@@ -31,7 +31,7 @@
       <img src="https://skillicons.dev/icons?i=c" width="60" height="60"><br>C
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/color/144/c-plus-plus-logo.png" width="60" height="60"><br>C++
+      <img src="https://img.icons8.com/color/240/c-plus-plus-logo.png" width="60" height="60"><br>C++
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60"><br>SQL
