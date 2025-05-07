@@ -3,7 +3,7 @@
 ## 👨‍💻 **Hi! I'm Justin Sebastian**
 ### 🛠 **A passionate software developer looking for software engineering placements!**
   
-![Coding Animation](https://media.giphy.com/media/1vnxOxaX9s9w0zDNJ9/giphy.gif)
+![Coding Animation](https://raw.githubusercontent.com/Jseb0/jseb0/refs/heads/main/ChatGPT%20Image%20May%207%2C%202025%2C%2002_54_33%20PM.png)
 
 ---
 
