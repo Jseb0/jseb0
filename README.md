@@ -31,7 +31,7 @@
       <img src="https://skillicons.dev/icons?i=c" width="60" height="60"><br>C
     </td>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/color/240/c-plus-plus-logo.png" width="60" height="60"><br>C++
+      <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60"><br>C++
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60"><br>SQL
@@ -78,6 +78,9 @@
     </td>
     <td align="center" width="100">
       <img src="https://img.icons8.com/nolan/256/jetbrains--v1.png" width="60" height="60"><br>JetBrains
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bash" width="60" height="60"><br>Bash
     </td>
   </tr>
 </table>
