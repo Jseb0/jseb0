@@ -3,7 +3,7 @@
 ## 👨‍💻 **Hi! I'm Justin Sebastian**
 ### 🛠 **A passionate software developer looking for software engineering placements!**
   
-![Coding Animation](https://raw.githubusercontent.com/Jseb0/jseb0/refs/heads/main/image%201.png)
+![Coding Animation](https://raw.githubusercontent.com/Jseb0/jseb0/refs/heads/main/mario.gif)
 
 ---
 
