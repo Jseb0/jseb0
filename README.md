@@ -77,7 +77,7 @@
       <img src="https://www.mamp.info/images/icons/mamp-viewer.png" width="60" height="60"><br>MAMP
     </td>
     <td align="center" width="100">
-      <img src="https://example.com/path/to/jetbrains-icon.png" width="60" height="60"><br>JetBrains
+      <img src="https://img.icons8.com/small/256/jetbrains--v1.png" width="60" height="60"><br>JetBrains
     </td>
   </tr>
 </table>
